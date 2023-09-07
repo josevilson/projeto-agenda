@@ -9,6 +9,8 @@ django-admin startproject project .
 
 Configurar o git
 
+Será se mudou?
+
 ```
 git config --global user.name 'Seu nome'
 git config --global user.email 'seu_email@gmail.com'
